@@ -35,7 +35,7 @@
 rm(list=ls())
 
 # set working directory
-setwd("/home/trix_arch/IIVspace/programmingzzz/R/Coursera/Data_science_Course3_Programming_Assignment/Getting_and_Cleaning_Data_Course_Project/")
+setwd("/home/user/Getting_and_Cleaning_Data_Course_Project/")
 
 # define relative path to the folder with data
 data_Location = "./UCI HAR Dataset"
